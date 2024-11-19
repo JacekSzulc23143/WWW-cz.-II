@@ -1,0 +1,10 @@
+1. Stwórz tablicę z cyframi 1-6.
+
+2. Stwóz pętlę, która przeiteruje (przejdzie) po tablicy i wypisze wszystkie cyfry w konsoli.
+
+3. Stwórz funkcję, która przyjmie 3 parametry. Funkcja ma w konsoli podać wynik działania: arg1 + arg2 * arg3
+Podczas wywołania funkcji, jako argumenty podaj cyfry 1, 2 i 3.
+
+4. Stwórz instrukcję warunkową IF, która sprawdzi, czy długość tablicy z cyframi jest większa niż 5.
+Jeśli tak - niech wypisze w konsoli "TRUE".
+Jeśli nie - niech wypisze w konsoli "FALSE".
